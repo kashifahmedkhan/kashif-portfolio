@@ -66,6 +66,18 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "My Notes",
+        "groups": [
+          {
+            "group": "About Me",
+            "pages": [
+              "my-notes/intro",
+              "my-notes/experience"
+            ]
+          }
+        ]
       }
     ],
     "global": {
