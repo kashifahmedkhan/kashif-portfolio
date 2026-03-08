@@ -1,0 +1,36 @@
+# Kashif Ahmed Khan — Documentation Portfolio
+
+> Senior Technical Support and Documentation Engineer with 13 years of experience
+> in WordPress and SaaS products. Specializes in making complex products
+> understandable for users, developers, and AI agents. Reduced MemberPress support
+> ticket volume from 1,200 to 500 in six months through targeted documentation.
+> Open to remote roles in technical support, documentation engineering, and
+> customer education. Available across U.S., European, Middle East, and APAC
+> time zones.
+
+## About
+
+- [Who I Am](https://kashifahmed.dev/about/introduction): Background, career summary, and what I am looking for in my next role
+- [Experience](https://kashifahmed.dev/about/experience): Full work history at MemberPress, Slider Revolution, and independent plugin projects with key metrics
+- [Skills](https://kashifahmed.dev/about/skills): Technical support, documentation, docs as code, tooling, and AI workflows
+- [Contact](https://kashifahmed.dev/about/contact): How to reach me and what roles I am open to
+
+## Documentation
+
+- [MemberPress](https://kashifahmed.dev/writing/memberpress): 86 articles for MemberPress AppKit written in one week, 46 articles for WishList LMS pre-launch, and ongoing MemberPress documentation maintenance
+- [Slider Revolution Manual](https://kashifahmed.dev/writing/slider-revolution-manual): Technical manual articles for Slider Revolution covering addons, configuration, and social media feed integrations
+- [Slider Revolution Tutorials](https://kashifahmed.dev/writing/slider-revolution-tutorials): 28 troubleshooting and tutorial articles written in response to recurring support ticket patterns
+- [Slider Revolution Blog](https://kashifahmed.dev/writing/slider-revolution-blog): Blog posts and feature announcements covering product updates and WordPress ecosystem changes
+
+## Projects
+
+- [VigiGuard](https://kashifahmed.dev/projects/vigiguard): Free WordPress security plugin live on WordPress.org. One-click hardening, brute force protection, and file integrity monitoring with zero configuration
+- [Enkypt](https://kashifahmed.dev/projects/enkypt): Commercial WordPress security plugin in late-stage development. Three pricing tiers targeting small businesses, freelancers, and agencies
+
+## Key Metrics
+
+- Reduced MemberPress active support ticket volume from 1,200 to 500 (58% drop) in under 6 months
+- Wrote 86 articles for MemberPress AppKit from scratch in one week
+- Wrote 46 articles for WishList LMS ahead of launch with zero documentation debt
+- Wrote 39 articles for Slider Revolution across manuals, tutorials, FAQs, and blog posts
+- Supported Slider Revolution across 9M+ active installs worldwide

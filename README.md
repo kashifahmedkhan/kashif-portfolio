@@ -25,7 +25,7 @@ The portfolio demonstrates three things simultaneously:
 ### Writing Samples
 - **MemberPress** — documentation for one of the most widely used WordPress membership plugins, including the full AppKit suite (86 articles written in one week) and WishList LMS (46 articles pre-launch)
 - **Slider Revolution Manual** — technical manual articles for a plugin with 9M+ active installs
-- **Slider Revolution FAQs** — 28 troubleshooting articles written in response to recurring support ticket patterns
+- **Slider Revolution Tutorials** — 28 troubleshooting articles written in response to recurring support ticket patterns
 - **Slider Revolution Blog** — feature announcements and product update articles
 
 ### Projects
@@ -39,7 +39,7 @@ The portfolio demonstrates three things simultaneously:
 - Reduced MemberPress active support ticket volume from **1,200 to 500** (58% drop) in under 6 months
 - Wrote **86 articles** for MemberPress AppKit from scratch in one week
 - Wrote **46 articles** for WishList LMS ahead of launch with zero documentation debt
-- Wrote **39 articles** for Slider Revolution — manuals, FAQs, blog posts, and how-to guides
+- Wrote **39 articles** for Slider Revolution — manuals, Tutorials, blog posts, and how-to guides
 - Supported Slider Revolution across **9M+ active installs** worldwide
 
 ---
