@@ -9,43 +9,36 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-    {
-      "tab": "Portfolio",
-      "groups": [
-        {
-          "group": "About",
-          "pages": ["about/introduction", "about/experience", "about/skills"],
-          "icon": "house"
-        },
-        {
-          "group": "Documentation",
-          "pages": [
-            "documentation/memberpress",
-            "documentation/slider-revolution-manual",
-            "documentation/slider-revolution-tutorials",
-            "documentation/slider-revolution-blog"
-          ],
-          "icon": "briefcase"
-        },
-        {
-          "group": "Projects",
-          "pages": [
-            "projects/enkypt",
-            "projects/vigiguard"
-          ],
-          "icon": "stars"
-        },
-        {
-          "group": "Get in Touch",
-          "pages": [
-            "contact/contact"
-          ],
-          "icon": "at"
-        }
-      ]
-    }
-  ],
+    "groups": [
+      {
+        "group": "About",
+        "icon": "circle-user",
+        "pages": ["about/introduction", "about/experience", "about/skills"]
+      },
+      {
+        "group": "Documentation",
+        "icon": "book-open",
+        "pages": [
+          "documentation/memberpress",
+          "documentation/slider-revolution-manual",
+          "documentation/slider-revolution-tutorials",
+          "documentation/slider-revolution-blog"
+        ]
+      },
+      {
+        "group": "Projects",
+        "icon": "rocket",
+        "pages": [
+          "projects/enkypt",
+          "projects/vigiguard"
+        ]
+      },
+      {
+        "group": "Contact",
+        "icon": "at",
+        "pages": ["contact/contact"]
+      }
+    ],
     "global": {
       "anchors": [
         {
@@ -61,12 +54,7 @@
         {
           "anchor": "Resume",
           "href": "https://tinyurl.com/323n59wh",
-          "icon": "file"
-        },
-        {
-          "anchor": "Contact Me",
-          "href": "/contact/contact",
-          "icon": "paper-plane"
+          "icon": "file-lines"
         }
       ]
     }
@@ -80,15 +68,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
