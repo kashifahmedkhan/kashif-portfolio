@@ -17,12 +17,7 @@
       "twitter:site": "@kashif__khan"
     }
   },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/about/introduction"
-    }
-  ],
+  
   "colors": {
     "primary": "#6366F1",
     "light": "#818CF8",
@@ -34,7 +29,7 @@
       {
         "group": "About",
         "icon": "circle-user",
-        "pages": ["about/introduction", "about/experience", "about/skills"]
+        "pages": ["about/experience", "about/skills"]
       },
       {
         "group": "Writing Portfolio",
