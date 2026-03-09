@@ -20,7 +20,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/about/me"
+      "destination": "/about/introduction"
     }
   ],
   "colors": {
@@ -34,7 +34,7 @@
       {
         "group": "About",
         "icon": "circle-user",
-        "pages": ["about/me", "about/experience", "about/skills"]
+        "pages": ["about/introduction", "about/experience", "about/skills"]
       },
       {
         "group": "Writing Portfolio",
