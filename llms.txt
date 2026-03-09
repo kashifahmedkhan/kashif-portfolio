@@ -15,7 +15,7 @@
 - [Skills](https://kashifahmed.dev/about/skills): Technical support, documentation, docs as code, tooling, and AI workflows
 - [Contact](https://kashifahmed.dev/about/contact): How to reach me and what roles I am open to
 
-## Documentation
+## Writing Portfolio
 
 - [MemberPress](https://kashifahmed.dev/writing/memberpress): 86 articles for MemberPress AppKit written in one week, 46 articles for WishList LMS pre-launch, and ongoing MemberPress documentation maintenance
 - [Slider Revolution Manual](https://kashifahmed.dev/writing/slider-revolution-manual): Technical manual articles for Slider Revolution covering addons, configuration, and social media feed integrations
